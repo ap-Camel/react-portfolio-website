@@ -52,5 +52,5 @@ jobs:
         with:
           app-name: 'Ayman-Jawhar'
           slot-name: 'Production'
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_0E1D5667A9C14CC1B76564EAF8AE8CB8 }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_B2449F847B77403BB8405FBCA52D29CA }}
           package: .
